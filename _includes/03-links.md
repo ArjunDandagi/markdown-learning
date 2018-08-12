@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Arjun in hackerrank](https://d3rpyts3de3lx8.cloudfront.net/hackerrank/assets/gravatar.jpg)
